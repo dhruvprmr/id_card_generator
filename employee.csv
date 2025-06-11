@@ -1,3 +1,3 @@
-name,title,profile
-dhruv,software developer,dhruv.jpeg
-chirag,sales,chirag.jpg
+name,title,profile,id,email,address,phone
+Dhruv,Software developer,dhruv.jpeg,001,dhruv@gmail.com,123 Main St, 299-0784
+Chirag,Sales,chirag.jpg,002,chirag@gmail.com,123 Market St, 555-5678
